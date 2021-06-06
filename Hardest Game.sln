@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hardest Game", "Hardest Game\Hardest Game.vcxproj", "{7DF1FF88-BED8-4D35-A546-55601F0F98FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hardest-Game", "Hardest-Game\Hardest-Game.vdproj", "{E1C14FD1-FF07-426A-A2E1-AE7A64E1A234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Debug|x64.ActiveCfg = Debug|x64
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Debug|x64.Build.0 = Debug|x64
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Debug|x86.Build.0 = Debug|Win32
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Release|x64.ActiveCfg = Release|x64
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Release|x64.Build.0 = Release|x64
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Release|x86.ActiveCfg = Release|Win32
+		{7DF1FF88-BED8-4D35-A546-55601F0F98FD}.Release|x86.Build.0 = Release|Win32
+		{E1C14FD1-FF07-426A-A2E1-AE7A64E1A234}.Debug|x64.ActiveCfg = Debug
+		{E1C14FD1-FF07-426A-A2E1-AE7A64E1A234}.Debug|x86.ActiveCfg = Debug
+		{E1C14FD1-FF07-426A-A2E1-AE7A64E1A234}.Release|x64.ActiveCfg = Release
+		{E1C14FD1-FF07-426A-A2E1-AE7A64E1A234}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B467AAED-D9F8-46B7-AA6D-67E9D022DF89}
+	EndGlobalSection
+EndGlobal
